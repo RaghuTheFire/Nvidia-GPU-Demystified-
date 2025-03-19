@@ -6,6 +6,10 @@ Nvidia GPU Demystified
 
 
 
+https://github.com/user-attachments/assets/17bba74e-fd29-4a97-897d-1ad40be5aefc
+
+
+
 # Online Workspace for Explioting the Power of Nvidia GPUs
 ![Untitled](https://github.com/user-attachments/assets/c1322432-1773-4e9d-bb08-8d3b4134368e)
 
